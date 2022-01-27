@@ -44,4 +44,4 @@ The PDF versions of the emails will also have the ability to open attachments di
 _______________
 
 <h2>A detailed article explaining how to use this script can be found here:</h2>
-<h3>www.linkedin.com</h3>
+<h3>https://www.linkedin.com/pulse/assisting-digital-forensics-ediscovery-investigations-glenn-nor</h3>
